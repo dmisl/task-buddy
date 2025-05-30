@@ -15,6 +15,8 @@ export default defineConfig({
                 'resources/js/app.js',
                 'resources/js/emoji.js',
                 'resources/js/placeholders.js',
+                'resources/js/goalCreate.js',
+                'resources/css/goalShow.css',
             ],
             refresh: true,
         }),
